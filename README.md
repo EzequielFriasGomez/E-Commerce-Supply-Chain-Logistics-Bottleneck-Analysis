@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/EzequielFriasGomez/E-Commerce-Supply-Chain-Logistics-Bottleneck-Analysis/blob/main/An%C3%A1lisis_Log%C3%ADstica_Transporte.pdf" width="800"/>
+  <img src="https://github.com/EzequielFriasGomez/E-Commerce-Supply-Chain-Logistics-Bottleneck-Analysis/blob/main/An%C3%A1lisis_Log%C3%ADstica_Transporte.jpg" width="800"/>
 </p>
 
 # Architecture & Process (ETL & BI)
